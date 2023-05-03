@@ -19,6 +19,8 @@ spec:
           ports:
             - containerPort: 8080
 ---
+# Add a separator between the Deployment and the Service sections
+---
 apiVersion: v1
 kind: Service
 metadata:
