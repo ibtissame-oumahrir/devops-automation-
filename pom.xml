@@ -45,7 +45,7 @@
 							<goal>build-info</goal>
 						</goals>
 						 <configuration>
-                       <mainClass>com.ibtissameoumahrir:devops-integration</mainClass>
+                       <mainClass>com.ibtissameoumahrir.Application</mainClass>
                        </configuration>
 					</execution>
 				</executions>
