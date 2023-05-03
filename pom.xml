@@ -44,11 +44,12 @@
 						<goals>
 							<goal>build-info</goal>
 						</goals>
-						 <configuration>
-                       <mainClass>com.ibtissameoumahrir.Application</mainClass>
-                       </configuration>
+						
 					</execution>
 				</executions>
+				 <configuration>
+                       <mainClass>com.ibtissameoumahrir.Application</mainClass>
+                       </configuration>
 			</plugin>
 			<plugin>
 				<groupId>pl.project13.maven</groupId>
