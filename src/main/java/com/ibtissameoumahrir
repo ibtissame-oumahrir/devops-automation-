@@ -1,4 +1,4 @@
-package com.ibtissameoumahrir;
+package com.javatechie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "bonjour oumahrir ibtissame";
+		return "welcome ibtissameoumahrir";
 	}
 
 	public static void main(String[] args) {
